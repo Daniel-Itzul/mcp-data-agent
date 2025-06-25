@@ -57,7 +57,6 @@ mcp-data-agent/
 uv run src/mcp-data-agent/server.py
 ```
 
-
 ## Usage
 
 - The agent exposes tools and resources for use by MCP agents.
