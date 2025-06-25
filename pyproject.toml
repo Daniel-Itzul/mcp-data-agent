@@ -1,0 +1,12 @@
+[project]
+name = "mcp-data-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "httpx>=0.28.1",
+    "mcp[cli]>=1.9.0",
+    "teradataml>=20.0.0.5",
+    "teradatasql>=20.0.0.30",
+]
